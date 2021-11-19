@@ -1,9 +1,9 @@
 
 import dairy_1 from "../src/images/dairy_1.jpg";
 import cafe1 from "../src/images/cafe1.png";
-import int1 from "../src/images/I9.jpeg";
-import house13 from "../src/images/H13.jpg";
-import Land1 from "../src/images/L1.jpeg";
+import int1 from "../src/images/I1.jpeg";
+import house13 from "../src/images/H19.jpeg";
+import Land1 from "../src/images/L6.jpeg";
 
 //import pdf from "../src/images/Fenil.pdf";
 
