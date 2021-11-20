@@ -16,7 +16,17 @@ import house16 from "../src/images/H16.jpg";
 import house17 from "../src/images/H17.jpg";
 import house18 from "../src/images/H18.jpg";
 import house19 from "../src/images/H19.jpeg";
+import house21 from "../src/images/H21.jpeg";
+import house22 from "../src/images/H22.jpeg";
+
+
 const HouseData = [
+
+  {
+    imgsrc: house19,
+   
+  },
+
     {
       imgsrc: house2,
      
@@ -64,10 +74,6 @@ const HouseData = [
        
       },
       {
-        imgsrc: house2,
-       
-      },
-      {
         imgsrc: house13,
        
       },
@@ -75,28 +81,23 @@ const HouseData = [
         imgsrc: house14,
        
       },
-      {
-        imgsrc: house15,
-       
-      },
-      {
-        imgsrc: house16,
-       
-      },
+    
       {
         imgsrc: house17,
        
       },
-
+      
       {
-        imgsrc: house18,
+        imgsrc: house21,
        
       },
-
       {
-        imgsrc: house19,
+        imgsrc: house22,
        
       },
+      
+      
+
     
   ];
   

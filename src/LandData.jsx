@@ -3,9 +3,13 @@ import land2 from "../src/images/L2.jpeg";
 import land3 from "../src/images/L3.jpeg";
 import land4 from "../src/images/L4.jpeg";
 import land5 from "../src/images/L5.jpeg";
-
+import land6 from "../src/images/L6.jpeg";
 
 const LandData = [
+  {
+    imgsrc: land6,
+   
+  },
     {
       imgsrc: land1,
      
@@ -27,6 +31,7 @@ const LandData = [
         imgsrc: land5,
        
       },
+     
             
     
   ];

@@ -67,7 +67,6 @@ const Card=(props)=>
     
   }
     
-
   return (
       <>
                    

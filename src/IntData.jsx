@@ -33,10 +33,6 @@ const IntData = [
     },
       
     {
-        imgsrc: int1,
-      },
-    
-      {
         imgsrc: int4,
       },
     
@@ -61,17 +57,9 @@ const IntData = [
       },
     
       {
-        imgsrc: int1,
-      },
-    
-      {
-        imgsrc: int1,
-      },
-    
-      {
         imgsrc: int10,
       },
-      
+    
       {
         imgsrc: int11,
       },
@@ -79,7 +67,7 @@ const IntData = [
       {
         imgsrc: int12,
       },
-    
+      
       {
         imgsrc: int13,
       },
@@ -95,20 +83,20 @@ const IntData = [
       {
         imgsrc: int16,
       },
-      
+    
       {
         imgsrc: int17,
       },
     
-      
       {
         imgsrc: int18,
       },
-
+      
       {
         imgsrc: int19,
       },
-
+    
+      
       {
         imgsrc: int20,
       },
