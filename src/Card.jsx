@@ -63,6 +63,10 @@ const Card=(props)=>
     {
       history.push("/LandPhoto");
     }
+    else if(props.clicked=="clicked6")
+    {
+      history.push("/CinemaPhoto");
+    }
     
     
   }

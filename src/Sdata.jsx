@@ -4,6 +4,7 @@ import cafe1 from "../src/images/cafe1.png";
 import int1 from "../src/images/I1.jpeg";
 import house13 from "../src/images/H19.jpeg";
 import Land1 from "../src/images/L6.jpeg";
+import cinema1 from "../src/images/C1.jpeg";
 
 //import pdf from "../src/images/Fenil.pdf";
 
@@ -41,6 +42,12 @@ const Sdata = [
     imgsrc: Land1,
     title: "landscape design",
     clicked:"clicked5"  
+  },
+
+  {
+    imgsrc: cinema1,
+    title: "Cinema Project",
+    clicked:"clicked6"  
   },
 ];
 

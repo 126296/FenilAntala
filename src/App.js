@@ -11,7 +11,8 @@ import CafePhoto from './CafePhoto';
 import Dairyphoto from './Dairyphoto';
 import IntPhoto from './IntPhoto';
 import HousePhoto from './HousePhoto';
-import LandPhoto from './LandPhoto'
+import LandPhoto from './LandPhoto';
+import CinemaPhoto from './CinemaPhoto';
 import Footer from './Footer';
 import './App.css';
 import './index.css';
@@ -32,6 +33,7 @@ const App=()=>
   <Route exact path='/IntPhoto' component={IntPhoto}></Route>
   <Route exact path='/HousePhoto' component={HousePhoto}></Route>
   <Route exact path='/LandPhoto' component={LandPhoto}></Route>
+  <Route exact path='/CinemaPhoto' component={CinemaPhoto}></Route>
   <Redirect to='/'></Redirect>
   </Switch>
   <Footer/>
